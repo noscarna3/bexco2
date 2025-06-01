@@ -1,7 +1,7 @@
 let aiTemplates = [];
 let summaries = [];
 let decisions = []; // 채용/탈락 정보 저장
-let OPENAI_API_KEY = "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";  
+let OPENAI_API_KEY = "";  
 let currentAIIndex = 0;
 let questionCount = 0;
 const maxQuestions = 5;
